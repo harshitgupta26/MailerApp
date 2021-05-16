@@ -1,0 +1,2 @@
+# MailerApp
+MERN stack application
